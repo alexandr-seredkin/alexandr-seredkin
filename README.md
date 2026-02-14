@@ -15,19 +15,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=110&section=header&fontColor=00ff88&fontSize=50&animation=twinkling" width="100%"/>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: stretch; gap: 1rem; width: 100%; margin-top: -15px;">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Meowness.png" alt="TryHackMe" height="135" style="max-width: 100%; min-width: 260px; flex: 1 1 45%; object-fit: contain;"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexandr-seredkin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88" alt="Top Languages" height="135" style="max-width: 100%; min-width: 260px; flex: 1 1 45%; object-fit: contain;"/>
-</div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=80&section=footer&reversal=true" width="100%"/>
-
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=228B22&center=true&vCenter=true&width=500&lines=%F0%9F%94%91+ABOUT+ME+%F0%9F%94%91" alt="About Me"/>
@@ -59,6 +46,14 @@ $ cat skills.txt
 </td>
 </tr>
 </table>
+
+---
+
+<div style="display: flex; flex-wrap: wrap; justify-content: stretch; gap: 1rem; width: 100%; margin-top: -15px;">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Meowness.png" alt="TryHackMe" height="135" style="max-width: 100%; min-width: 260px; flex: 1 1 45%; object-fit: contain;"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexandr-seredkin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88" alt="Top Languages" height="135" style="max-width: 100%; min-width: 260px; flex: 1 1 45%; object-fit: contain;"/>
+</div>
+
 
 ---
 
