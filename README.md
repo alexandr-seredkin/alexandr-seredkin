@@ -15,11 +15,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=header&fontColor=00ff88&fontSize=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=110&section=header&fontColor=00ff88&fontSize=50&animation=twinkling" width="100%"/>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: stretch; gap: 1rem; width: 100%;">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Meowness.png" alt="TryHackMe" height="165" style="max-width: 100%; min-width: 260px; flex: 1 1 45%; object-fit: contain;"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexandr-seredkin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88" alt="Top Languages" height="165" style="max-width: 100%; min-width: 260px; flex: 1 1 45%; object-fit: contain;"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Meowness.png" alt="TryHackMe" height="135" style="max-width: 100%; min-width: 260px; flex: 1 1 45%; object-fit: contain;"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexandr-seredkin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88" alt="Top Languages" height="135" style="max-width: 100%; min-width: 260px; flex: 1 1 45%; object-fit: contain;"/>
 </div>
 
 
