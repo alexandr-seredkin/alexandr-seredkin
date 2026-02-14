@@ -1,80 +1,142 @@
-<img width="336" src="https://tryhackme-badges.s3.amazonaws.com/Meowness.png#update1" alt="TryHackMe"/>
+<div align="center">
 
-# Не ищите дыр в безопасности, я их уже закрыл.😉
+# ```/Alexandr Seredkin/```
 
-## Контакты
+### **Security Researcher · Penetration Tester · Red Team**
 
-- **Телеграмм:** [@jjsjdicieowowjcjxoso](https://t.me/jjsjdicieowowjcjxoso)
-- **Почта:** [swarm-frame-flock@duck.com](mailto:swarm-frame-flock@duck.com)
-- **Мой сайт:** [https://alexandr-seredkin.ru/](https://alexandr-seredkin.ru/)
+*"Don't look for security holes — I've already closed them."* 
 
-## Навыки
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandr_Seredkin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandr-seredkin/)
+[![Telegram](https://img.shields.io/badge/Telegram-@xihsdihfdihsfdius-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xihsdihfdihsfdius)
+[![Email](https://img.shields.io/badge/Email-itsec.seredkin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsec.seredkin@gmail.com)
 
-### Разведка и эксплуатация
-- **Пентест:** разведка (OSINT, subdomain enumeration), сканирование (Nmap, Netcat), эксплуатация (Metasploit, SQLi, XSS), пост-эксплуатация (Meterpreter, Mimikatz).
-- **Разведка:** Passive/Active Reconnaissance, Subdomain Enumeration.
-- **Эксплуатация:** SQL Injection, Command Injection, SSRF, XSS.
-- **Эскалация привилегий:** SUID, cron jobs (Linux), Token Impersonation (Windows).
-- **Инструменты:** Metasploit, Burp Suite, OWASP Top 10.
+---
 
-### Веб-безопасность
-- **Эксперт в тестировании веб-приложений:**
-  - Поиск скрытых ресурсов (Gobuster, Dirbuster).
-  - Эксплуатация: File Inclusion (LFI/RFI), CSRF, SSRF, XXE, JWT.
-  - Работы с Burp Suite: Proxy, Intruder, Repeater.
-  - Анализ RESTful API (Postman, OWASP ZAP), тестирование на Insecure Deserialization (Python Pickle).
-- **Практический опыт с OWASP Juice Shop, Pickle Rick (CTF).**
+</div>
 
-### Сетевые атаки и защита
-- **Сетевые разведка и сканирование:**
-  - Passive (Sublist3r, theHarvester), Active (Nmap - TCP SYN/ACK, UDP).
-- **Анализ сетевых протоколов:** Wireshark, tcpdump.
-- **Атаки:** ARP Spoofing (Ettercap), MITM, SSL/TLS аудит (SSLScan).
-- **Взлом беспроводных сетей:** Aircrack-ng (WPA2-PSK, деаутентификация).
+<img src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=header&fontColor=00ff88&fontSize=50&animation=twinkling" width="100%"/>
 
-### Инструменты и автоматизация
-- **Взлом хешей:** Hashcat, John the Ripper.
-- **Автоматизация:** Bash, Python (эксплуатация уязвимостей, парсинг данных).
-- **Cobalt Strike:** Beacon, C2-инфраструктура.
-
-### Frontend и Backend разработки
-- **Опыт с:** React, Next.js, NestJS.
-- **Разработка микросервисных приложений с Kafka.**
-
-### Penetration Testing & Red Teaming
-- **Привилегированная эскалация:** SUID, cron jobs (Linux), Token Impersonation (Windows).
-- **Эксплуатация уязвимостей:** EternalBlue, Shellshock, Heartbleed.
-- **OWASP Top 10:** SQL Injection, Command Injection, SSRF, IDOR, XSS, аутентификация/авторизация.
-- **Базовые навыки Red Team:** фишинг (SET), обход антивирусов (MSFvenom), сбор данных (Maltego, Recon-ng).
-
-### Защита и оценка уязвимостей
-- **Анализ и защита сетевой инфраструктуры:** Wireshark, SSLScan, Ettercap.
-- **Обнаружение уязвимостей в REST API и веб-приложениях.**
-- **Применение техник защиты данных:** фишинг, обход антивирусов.
-
-## Технический стек
-
-### Web:
-- **Языки:** HTML/CSS/JavaScript, TypeScript.
-- **Фреймворки:** React, Next.js, Node.js/Express.js, Django, NestJS.
-- **API:** REST, WebSockets, GraphQL, jQuery, Bootstrap (UI Kits: antd, MUI, Core UI).
-- **Библиотеки:** Axios, MobX.
-
-### Базы данных:
-- **СУБД:** MySQL, PostgreSQL, SQLite, MongoDB, Redis, Elasticsearch.
-- **Инструменты:** SQLMap, Mongoose.
-
-### Сетевые технологии:
-- **Протоколы:** TCP/IP, HTTP/HTTPS, FTP, DNS, SMTP, SSH, IMAP, POP3, UDP, DHCP, SNMP.
-- **Инструменты:** Wireshark, tcpdump, SSLScan, Nmap, Netcat, Ettercap, Aircrack-ng.
-
-### DevOps и CI/CD:
-- **Инструменты:** Docker, GitLab CI/CD, GitHub Actions, Ansible, Prometheus, Grafana.
-
-### Безопасность:
-- **Инструменты:** Metasploit, Burp Suite, SQLMap, Hydra, Gobuster и другие.
-
-### Операционные системы:
-- **ОС:** Kali Linux, Ubuntu, Debian.
+<div style="display: flex; flex-wrap: wrap; justify-content: stretch; gap: 1rem; width: 100%;">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Meowness.png" alt="TryHackMe" height="165" style="max-width: 100%; min-width: 260px; flex: 1 1 45%; object-fit: contain;"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexandr-seredkin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88" alt="Top Languages" height="165" style="max-width: 100%; min-width: 260px; flex: 1 1 45%; object-fit: contain;"/>
+</div>
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=80&section=footer&reversal=true" width="100%"/>
+
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=228B22&center=true&vCenter=true&width=500&lines=%F0%9F%94%91+ABOUT+ME+%F0%9F%94%91" alt="About Me"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+```bash
+$ whoami
+> Security Researcher
+> Penetration Tester
+> Red Team Operator
+
+$ cat skills.txt
+> Web & API Security
+> Network Pentesting
+> Post-Exploitation
+> OSINT & Recon
+```
+
+</td>
+<td width="50%">
+
+**Pentest** and **Red Team**: auditing web applications and infrastructure, finding vulnerabilities before the attacker does. Full-cycle experience — reconnaissance, exploitation, post-exploitation, reporting. I help strengthen defenses based on real attack vectors.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=228B22&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A1%EF%B8%8F+ARSENAL+%26+EXPERTISE+%F0%9F%9B%A1%EF%B8%8F" alt="Arsenal"/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🔎 Recon & OSINT**
+
+<img src="https://img.shields.io/badge/Nmap--00ff88?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sublist3r--00ff88?style=flat-square"/>
+<img src="https://img.shields.io/badge/theHarvester--00ff88?style=flat-square"/>
+<img src="https://img.shields.io/badge/Maltego--00ff88?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recon--ng--00ff88?style=flat-square"/>
+
+</td>
+<td align="center" width="25%">
+
+**🌐 Web & API**
+
+<img src="https://img.shields.io/badge/Burp_Suite--00ff88?style=flat-square&logo=bug&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLi%20%7C%20XSS%20%7C%20SSRF--00ff88?style=flat-square&logo=bug&logoColor=white"/>
+<img src="https://img.shields.io/badge/XXE%20%7C%20LFI%20%7C%20JWT--00ff88?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gobuster%20%7C%20Dirbuster--00ff88?style=flat-square"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP--00ff88?style=flat-square&logo=owasp&logoColor=white"/>
+
+</td>
+<td align="center" width="25%">
+
+**💀 Post-Exploit & C2**
+
+<img src="https://img.shields.io/badge/Metasploit--00ff88?style=flat-square&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cobalt_Strike--00ff88?style=flat-square&logo=windows"/>
+<img src="https://img.shields.io/badge/Mimikatz--00ff88?style=flat-square&logo=windows"/>
+<img src="https://img.shields.io/badge/MSFvenom--00ff88?style=flat-square&logo=terminal"/>
+<img src="https://img.shields.io/badge/Token_Impersonation--00ff88?style=flat-square&logo=windows"/>
+
+</td>
+<td align="center" width="25%">
+
+**📡 Network & Wireless**
+
+<img src="https://img.shields.io/badge/Wireshark%20%7C%20tcpdump--00ff88?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ettercap--00ff88?style=flat-square&logo=linux"/>
+<img src="https://img.shields.io/badge/Aircrack--ng--00ff88?style=flat-square"/>
+<img src="https://img.shields.io/badge/SSLScan--00ff88?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hashcat%20%7C%20JtR--00ff88?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="4" align="center">
+
+<img src="https://img.shields.io/badge/SET--00ff88?style=flat-square"/>
+<img src="https://img.shields.io/badge/EternalBlue%20%7C%20Shellshock%20%7C%20Heartbleed--00ff88?style=flat-square&logo=terminal"/>
+<img src="https://img.shields.io/badge/OWASP_Juice_Shop--00ff88?style=flat-square&logo=owasp&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  $ echo "Think like an attacker. Build like a defender."    │
+│  > Think like an attacker. Build like a defender.           │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=100&section=footer&reversal=false" width="100%"/>
+
+</div>
